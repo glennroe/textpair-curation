@@ -1,0 +1,8 @@
+*.tsv
+*.txt
+*.log
+*.csv
+*.json
+*.jsonl
+__pycache__/
+*.ini
